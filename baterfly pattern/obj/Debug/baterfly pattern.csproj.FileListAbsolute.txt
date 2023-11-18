@@ -1,0 +1,7 @@
+E:\C# project\baterfly pattern\obj\Debug\baterfly pattern.csproj.AssemblyReference.cache
+E:\C# project\baterfly pattern\obj\Debug\baterfly pattern.csproj.CoreCompileInputs.cache
+E:\C# project\baterfly pattern\bin\Debug\baterfly pattern.exe.config
+E:\C# project\baterfly pattern\bin\Debug\baterfly pattern.exe
+E:\C# project\baterfly pattern\bin\Debug\baterfly pattern.pdb
+E:\C# project\baterfly pattern\obj\Debug\baterfly pattern.exe
+E:\C# project\baterfly pattern\obj\Debug\baterfly pattern.pdb
