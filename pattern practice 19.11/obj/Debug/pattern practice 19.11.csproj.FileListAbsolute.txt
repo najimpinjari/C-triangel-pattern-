@@ -1,0 +1,7 @@
+E:\C# project\pattern practice 19.11\bin\Debug\pattern practice 19.11.exe.config
+E:\C# project\pattern practice 19.11\bin\Debug\pattern practice 19.11.exe
+E:\C# project\pattern practice 19.11\bin\Debug\pattern practice 19.11.pdb
+E:\C# project\pattern practice 19.11\obj\Debug\pattern practice 19.11.csproj.AssemblyReference.cache
+E:\C# project\pattern practice 19.11\obj\Debug\pattern practice 19.11.csproj.CoreCompileInputs.cache
+E:\C# project\pattern practice 19.11\obj\Debug\pattern practice 19.11.exe
+E:\C# project\pattern practice 19.11\obj\Debug\pattern practice 19.11.pdb
