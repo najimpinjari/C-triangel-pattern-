@@ -1,0 +1,7 @@
+E:\C# project\Malti dimensional Array .new\bin\Debug\Malti_dimensional_Array.@new.exe.config
+E:\C# project\Malti dimensional Array .new\bin\Debug\Malti_dimensional_Array.@new.exe
+E:\C# project\Malti dimensional Array .new\bin\Debug\Malti_dimensional_Array.@new.pdb
+E:\C# project\Malti dimensional Array .new\obj\Debug\Malti dimensional Array .new.csproj.AssemblyReference.cache
+E:\C# project\Malti dimensional Array .new\obj\Debug\Malti dimensional Array .new.csproj.CoreCompileInputs.cache
+E:\C# project\Malti dimensional Array .new\obj\Debug\Malti_dimensional_Array.@new.exe
+E:\C# project\Malti dimensional Array .new\obj\Debug\Malti_dimensional_Array.@new.pdb
