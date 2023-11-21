@@ -1,0 +1,7 @@
+E:\C# project\holo retangle\bin\Debug\holo retangle.exe.config
+E:\C# project\holo retangle\bin\Debug\holo retangle.exe
+E:\C# project\holo retangle\bin\Debug\holo retangle.pdb
+E:\C# project\holo retangle\obj\Debug\HollowRectangle.csproj.AssemblyReference.cache
+E:\C# project\holo retangle\obj\Debug\HollowRectangle.csproj.CoreCompileInputs.cache
+E:\C# project\holo retangle\obj\Debug\holo retangle.exe
+E:\C# project\holo retangle\obj\Debug\holo retangle.pdb
