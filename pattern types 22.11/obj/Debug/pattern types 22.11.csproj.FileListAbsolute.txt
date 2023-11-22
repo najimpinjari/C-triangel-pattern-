@@ -1,0 +1,7 @@
+E:\C# project\pattern types 22.11\bin\Debug\pattern types 22.11.exe.config
+E:\C# project\pattern types 22.11\bin\Debug\pattern types 22.11.exe
+E:\C# project\pattern types 22.11\bin\Debug\pattern types 22.11.pdb
+E:\C# project\pattern types 22.11\obj\Debug\pattern types 22.11.csproj.AssemblyReference.cache
+E:\C# project\pattern types 22.11\obj\Debug\pattern types 22.11.csproj.CoreCompileInputs.cache
+E:\C# project\pattern types 22.11\obj\Debug\pattern types 22.11.exe
+E:\C# project\pattern types 22.11\obj\Debug\pattern types 22.11.pdb
